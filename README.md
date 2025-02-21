@@ -1,6 +1,6 @@
 <h1 align="left">Hello World <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> I'm Milan Sony</h1>
 
-<p>Currently working as a Backend Dev at <a href="https://www.tltechnologies.net/">TL Technologies</a></p>
+<p>Currently working as a 🚀 Backend Dev at <a href="https://www.tltechnologies.net/">TL Technologies</a></p>
 <p>Feel free to reach out to me at <a href="mailto:milansonyofficial@gmail.com">milansonyofficial@gmail.com</a> to discuss my coding journey, offer guidance, or simply show support 😄</p>
 
 <h4 align="left">🔗 Stay connected with me</h4>
@@ -24,7 +24,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
 
